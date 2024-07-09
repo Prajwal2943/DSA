@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01eb5995-6295-432a-9980-448046d843a9" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/buyandsellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/largestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/pairs_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/printsubarray_kadanes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/printsubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/printsubarraysum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/printsubarraysum_prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/reversearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/trappingrainwater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/maxofList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2array/diagonalsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2array/frequency_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2array/spiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2array/staricaseSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2array/sumofrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/bubblesort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/countingsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/practiceque/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/practiceque/insertionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/practiceque/selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/selectionsort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hAoyATFbzcA9tiUuZ1JF32WnJW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01eb5995-6295-432a-9980-448046d843a9" name="Changes" comment="" />
+      <created>1717046499411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717046499411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="13fd1449-41ad-4cb2-a1df-0ae692ea79d2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="13fd1449-41ad-4cb2-a1df-0ae692ea79d2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+</project>
